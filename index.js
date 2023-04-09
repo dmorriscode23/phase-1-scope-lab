@@ -1,7 +1,7 @@
-let name = 'bob';
+var customerName = 'bob';
 
-function customerName() {
-  return name;
+function returnCustomerName() {
+  return customerName;
 }
 
 
